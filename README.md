@@ -8,6 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
+https://flutemonkey.github.io/run-buddy/
 
 ## Contribution
 made with ❤️ by Zachary Chun
